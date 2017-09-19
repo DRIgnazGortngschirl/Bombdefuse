@@ -7,7 +7,7 @@
 :start
 title push the cancel button or it explodes
 color 0c
-echo we use the CC BY-NC-SA  License
+echo This is free Software release under the WTFPL License (github.com/Preisschild/Bombdefuse)
 
 echo   [1] HARD
 echo   [2] MEDIUM
